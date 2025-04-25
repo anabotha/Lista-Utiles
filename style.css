@@ -1,0 +1,27 @@
+:root{
+    color-scheme: dark;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+}
+.deleteBtn{
+    margin-left: 5px;
+    background-color: red;
+    color: white;
+}
+
+.ingreso{
+    margin:23px;
+    padding: 30px;
+    border:1px dotted white;
+    border-radius: 12px ;
+}
+
+#nombreUsuario{
+    margin:10px;
+    
+}
